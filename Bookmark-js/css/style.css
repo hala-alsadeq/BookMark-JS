@@ -1,0 +1,50 @@
+
+#home
+{
+    width:80%;
+    margin: auto; 
+    
+}
+h2
+{
+    color:#AAA;
+}
+
+.container
+{
+    background-color: #EEE;
+    height: 350px;
+    text-align: center;
+    
+   
+}
+
+form
+{
+    width: 70%;
+    margin: auto;
+}
+
+p
+{
+    color: #AAA;
+}
+
+.marktingContainer
+{
+    width: 77%;
+    height: 120px;
+    margin: auto;
+}
+
+
+h2:after{
+    content:"";
+    width: 1100px;
+    height: 1px;
+    background-color: #AAA;
+    position: absolute;
+    top: 25%;
+    left: 10%
+}
+
